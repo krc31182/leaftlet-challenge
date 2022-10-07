@@ -1,1 +1,1 @@
-# leaftlet-challenge
+In this challenge the last 7 days of earthquake data was pulled from USGS GeoJSON Feed supplied in instructions. A GeoJSON file was read in and Leaflet was used to visualize the earthquakes adn their locations. 
